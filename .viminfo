@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1646897575,,"wq!"
+|2,0,1646963054,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,32 +25,57 @@
 # Registers:
 
 # File marks:
-'0  1  23  /home/womafrankline1/test/work
-|4,48,1,23,1646897575,"/home/womafrankline1/test/work"
-'1  2  22  /home/womafrankline1/test/app
-|4,49,2,22,1646897066,"/home/womafrankline1/test/app"
-'2  1  39  /home/womafrankline1/test/app
-|4,50,1,39,1646895170,"/home/womafrankline1/test/app"
+'0  1  18  ~/app
+|4,48,1,18,1646963054,"~/app"
+'1  1  23  /home/womafrankline1/test/work
+|4,49,1,23,1646897575,"/home/womafrankline1/test/work"
+'2  2  22  /home/womafrankline1/test/app
+|4,50,2,22,1646897066,"/home/womafrankline1/test/app"
 '3  1  39  /home/womafrankline1/test/app
 |4,51,1,39,1646895170,"/home/womafrankline1/test/app"
+'4  1  39  /home/womafrankline1/test/app
+|4,52,1,39,1646895170,"/home/womafrankline1/test/app"
 
 # Jumplist (newest first):
+-'  1  18  ~/app
+|4,39,1,18,1646963054,"~/app"
+-'  1  23  /home/womafrankline1/test/work
+|4,39,1,23,1646897575,"/home/womafrankline1/test/work"
 -'  1  23  /home/womafrankline1/test/work
 |4,39,1,23,1646897575,"/home/womafrankline1/test/work"
 -'  2  22  /home/womafrankline1/test/app
 |4,39,2,22,1646897066,"/home/womafrankline1/test/app"
 -'  2  22  /home/womafrankline1/test/app
 |4,39,2,22,1646897066,"/home/womafrankline1/test/app"
+-'  2  22  /home/womafrankline1/test/app
+|4,39,2,22,1646897066,"/home/womafrankline1/test/app"
+-'  2  22  /home/womafrankline1/test/app
+|4,39,2,22,1646897066,"/home/womafrankline1/test/app"
 -'  1  39  /home/womafrankline1/test/app
 |4,39,1,39,1646897042,"/home/womafrankline1/test/app"
 -'  1  39  /home/womafrankline1/test/app
 |4,39,1,39,1646897042,"/home/womafrankline1/test/app"
+-'  1  39  /home/womafrankline1/test/app
+|4,39,1,39,1646897042,"/home/womafrankline1/test/app"
+-'  1  39  /home/womafrankline1/test/app
+|4,39,1,39,1646897042,"/home/womafrankline1/test/app"
+-'  1  39  /home/womafrankline1/test/app
+|4,39,1,39,1646895170,"/home/womafrankline1/test/app"
+-'  1  39  /home/womafrankline1/test/app
+|4,39,1,39,1646895170,"/home/womafrankline1/test/app"
 -'  1  39  /home/womafrankline1/test/app
 |4,39,1,39,1646895170,"/home/womafrankline1/test/app"
 -'  1  39  /home/womafrankline1/test/app
 |4,39,1,39,1646895170,"/home/womafrankline1/test/app"
 
 # History of marks within files (newest to oldest):
+
+> ~/app
+	*	1646963050	0
+	"	1	18
+	^	1	19
+	.	1	19
+	+	1	19
 
 > /home/womafrankline1/test/work
 	*	1646897570	0
